@@ -1,0 +1,21 @@
+{
+  "short_name": "MahmoudAli",
+  "name": "Mahmoud`s Restaurant Review App",
+  "icons": [
+    {
+      "src": "/img/logo-320px.png",
+      "type": "image/png",
+      "sizes": "320x320"
+    },
+    {
+      "src": "/img/logo-original.png",
+      "type": "image/png",
+      "sizes": "720x720"
+    }
+  ],
+  "start_url": "/index.html",
+  "display": "standalone",
+  "theme_color": "#252833",
+  "background_color": "#252833"
+
+}
